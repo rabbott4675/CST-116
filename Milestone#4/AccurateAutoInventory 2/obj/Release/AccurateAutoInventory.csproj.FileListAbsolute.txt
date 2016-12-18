@@ -1,0 +1,20 @@
+\\Mac\Home\Downloads\AccurateAutoInventory\bin\Release\AccurateAutoInventory.exe.config
+\\Mac\Home\Downloads\AccurateAutoInventory\bin\Release\AccurateAutoInventory.exe.manifest
+\\Mac\Home\Downloads\AccurateAutoInventory\bin\Release\AccurateAutoInventory.application
+\\Mac\Home\Downloads\AccurateAutoInventory\bin\Release\AccurateAutoInventory.exe
+\\Mac\Home\Downloads\AccurateAutoInventory\bin\Release\AccurateAutoInventory.pdb
+\\Mac\Home\Downloads\AccurateAutoInventory\obj\Release\AccurateAutoInventory.AddVehicle.resources
+\\Mac\Home\Downloads\AccurateAutoInventory\obj\Release\AccurateAutoInventory.Purge.resources
+\\Mac\Home\Downloads\AccurateAutoInventory\obj\Release\AccurateAutoInventory.RemoveVehicle.resources
+\\Mac\Home\Downloads\AccurateAutoInventory\obj\Release\AccurateAutoInventory.RunReports.resources
+\\Mac\Home\Downloads\AccurateAutoInventory\obj\Release\AccurateAutoInventory.AaiMain.resources
+\\Mac\Home\Downloads\AccurateAutoInventory\obj\Release\AccurateAutoInventory.Properties.Resources.resources
+\\Mac\Home\Downloads\AccurateAutoInventory\obj\Release\AccurateAutoInventory.Search.resources
+\\Mac\Home\Downloads\AccurateAutoInventory\obj\Release\AccurateAutoInventory.csproj.GenerateResource.Cache
+\\Mac\Home\Downloads\AccurateAutoInventory\obj\Release\AccurateAutoInventory.exe.manifest
+\\Mac\Home\Downloads\AccurateAutoInventory\obj\Release\AccurateAutoInventory.application
+\\Mac\Home\Downloads\AccurateAutoInventory\obj\Release\AccurateAutoInventory.exe
+\\Mac\Home\Downloads\AccurateAutoInventory\obj\Release\AccurateAutoInventory.pdb
+\\Mac\Home\Downloads\AccurateAutoInventory 2\bin\Release\AccurateAutoInventory.exe.config
+\\Mac\Home\Downloads\AccurateAutoInventory 2\obj\Release\AccurateAutoInventory.exe
+\\Mac\Home\Downloads\AccurateAutoInventory 2\obj\Release\AccurateAutoInventory.pdb

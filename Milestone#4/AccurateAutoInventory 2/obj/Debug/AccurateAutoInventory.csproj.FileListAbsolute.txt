@@ -1,0 +1,50 @@
+c:\users\robbie\documents\visual studio 2015\Projects\AccurateAutoInventory\AccurateAutoInventory\bin\Debug\AccurateAutoInventory.exe.config
+c:\users\robbie\documents\visual studio 2015\Projects\AccurateAutoInventory\AccurateAutoInventory\bin\Debug\AccurateAutoInventory.exe
+c:\users\robbie\documents\visual studio 2015\Projects\AccurateAutoInventory\AccurateAutoInventory\bin\Debug\AccurateAutoInventory.pdb
+c:\users\robbie\documents\visual studio 2015\Projects\AccurateAutoInventory\AccurateAutoInventory\obj\Debug\AccurateAutoInventory.csprojResolveAssemblyReference.cache
+c:\users\robbie\documents\visual studio 2015\Projects\AccurateAutoInventory\AccurateAutoInventory\obj\Debug\AccurateAutoInventory.AddVehicle.resources
+c:\users\robbie\documents\visual studio 2015\Projects\AccurateAutoInventory\AccurateAutoInventory\obj\Debug\AccurateAutoInventory.AaiMain.resources
+c:\users\robbie\documents\visual studio 2015\Projects\AccurateAutoInventory\AccurateAutoInventory\obj\Debug\AccurateAutoInventory.Properties.Resources.resources
+c:\users\robbie\documents\visual studio 2015\Projects\AccurateAutoInventory\AccurateAutoInventory\obj\Debug\AccurateAutoInventory.csproj.GenerateResource.Cache
+c:\users\robbie\documents\visual studio 2015\Projects\AccurateAutoInventory\AccurateAutoInventory\obj\Debug\AccurateAutoInventory.exe
+c:\users\robbie\documents\visual studio 2015\Projects\AccurateAutoInventory\AccurateAutoInventory\obj\Debug\AccurateAutoInventory.pdb
+C:\Users\Robbie\Documents\Visual Studio 2015\Projects\AccurateAutoInventory\AccurateAutoInventory\obj\Debug\AccurateAutoInventory.Purge.resources
+C:\Users\Robbie\Documents\Visual Studio 2015\Projects\AccurateAutoInventory\AccurateAutoInventory\obj\Debug\AccurateAutoInventory.RemoveVehicle.resources
+C:\Users\Robbie\Documents\Visual Studio 2015\Projects\AccurateAutoInventory\AccurateAutoInventory\obj\Debug\AccurateAutoInventory.RunReports.resources
+C:\Users\Robbie\Documents\Visual Studio 2015\Projects\AccurateAutoInventory\AccurateAutoInventory\obj\Debug\AccurateAutoInventory.Search.resources
+\\Mac\Home\Downloads\AccurateAutoInventory\bin\Debug\AccurateAutoInventory.exe
+\\Mac\Home\Downloads\AccurateAutoInventory\bin\Debug\AccurateAutoInventory.exe.config
+\\Mac\Home\Downloads\AccurateAutoInventory\bin\Debug\AccurateAutoInventory.exe.manifest
+\\Mac\Home\Downloads\AccurateAutoInventory\bin\Debug\AccurateAutoInventory.application
+\\Mac\Home\Downloads\AccurateAutoInventory\bin\Debug\AccurateAutoInventory.pdb
+\\Mac\Home\Downloads\AccurateAutoInventory\obj\Debug\AccurateAutoInventory.AddVehicle.resources
+\\Mac\Home\Downloads\AccurateAutoInventory\obj\Debug\AccurateAutoInventory.Purge.resources
+\\Mac\Home\Downloads\AccurateAutoInventory\obj\Debug\AccurateAutoInventory.RemoveVehicle.resources
+\\Mac\Home\Downloads\AccurateAutoInventory\obj\Debug\AccurateAutoInventory.RunReports.resources
+\\Mac\Home\Downloads\AccurateAutoInventory\obj\Debug\AccurateAutoInventory.AaiMain.resources
+\\Mac\Home\Downloads\AccurateAutoInventory\obj\Debug\AccurateAutoInventory.Properties.Resources.resources
+\\Mac\Home\Downloads\AccurateAutoInventory\obj\Debug\AccurateAutoInventory.Search.resources
+\\Mac\Home\Downloads\AccurateAutoInventory\obj\Debug\AccurateAutoInventory.csproj.GenerateResource.Cache
+\\Mac\Home\Downloads\AccurateAutoInventory\obj\Debug\AccurateAutoInventory.exe.manifest
+\\Mac\Home\Downloads\AccurateAutoInventory\obj\Debug\AccurateAutoInventory.application
+\\Mac\Home\Downloads\AccurateAutoInventory\obj\Debug\AccurateAutoInventory.exe
+\\Mac\Home\Downloads\AccurateAutoInventory\obj\Debug\AccurateAutoInventory.pdb
+\\Mac\Home\Downloads\AccurateAutoInventory\obj\Debug\AccurateAutoInventory.csprojResolveAssemblyReference.cache
+\\Mac\Home\Downloads\AccurateAutoInventory 2\bin\Debug\AccurateAutoInventory.exe.config
+\\Mac\Home\Downloads\AccurateAutoInventory 2\bin\Debug\AccurateAutoInventory.exe.manifest
+\\Mac\Home\Downloads\AccurateAutoInventory 2\bin\Debug\AccurateAutoInventory.application
+\\Mac\Home\Downloads\AccurateAutoInventory 2\bin\Debug\AccurateAutoInventory.exe
+\\Mac\Home\Downloads\AccurateAutoInventory 2\bin\Debug\AccurateAutoInventory.pdb
+\\Mac\Home\Downloads\AccurateAutoInventory 2\obj\Debug\AccurateAutoInventory.AddVehicle.resources
+\\Mac\Home\Downloads\AccurateAutoInventory 2\obj\Debug\AccurateAutoInventory.Purge.resources
+\\Mac\Home\Downloads\AccurateAutoInventory 2\obj\Debug\AccurateAutoInventory.RemoveVehicle.resources
+\\Mac\Home\Downloads\AccurateAutoInventory 2\obj\Debug\AccurateAutoInventory.RunReports.resources
+\\Mac\Home\Downloads\AccurateAutoInventory 2\obj\Debug\AccurateAutoInventory.AaiMain.resources
+\\Mac\Home\Downloads\AccurateAutoInventory 2\obj\Debug\AccurateAutoInventory.Properties.Resources.resources
+\\Mac\Home\Downloads\AccurateAutoInventory 2\obj\Debug\AccurateAutoInventory.Search.resources
+\\Mac\Home\Downloads\AccurateAutoInventory 2\obj\Debug\AccurateAutoInventory.csproj.GenerateResource.Cache
+\\Mac\Home\Downloads\AccurateAutoInventory 2\obj\Debug\AccurateAutoInventory.exe.manifest
+\\Mac\Home\Downloads\AccurateAutoInventory 2\obj\Debug\AccurateAutoInventory.application
+\\Mac\Home\Downloads\AccurateAutoInventory 2\obj\Debug\AccurateAutoInventory.exe
+\\Mac\Home\Downloads\AccurateAutoInventory 2\obj\Debug\AccurateAutoInventory.pdb
+\\Mac\Home\Downloads\AccurateAutoInventory 2\obj\Debug\AccurateAutoInventory.csprojResolveAssemblyReference.cache
